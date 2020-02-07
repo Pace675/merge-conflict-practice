@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.uno {
+  background-color: aquamarine;
+}
+.dos {
+  background-color: burlywood;
+}
+.tres {
+  background-color: coral;
+}
