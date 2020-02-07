@@ -1,15 +1,16 @@
-body {
+body div {
   display: flex;
-  flex-direction: row;
   justify-content: center;
 }
-.uno {
-  background-color: aquamarine;
+
+.square1 {
+  color: red;
 }
-.dos {
-  background-color: burlywood;
+
+.square2 {
+  color: green;
 }
-.tres {
-  background-color: coral;
-  text-transform: capitalize;
+
+.square3 {
+  color: blue;
 }
