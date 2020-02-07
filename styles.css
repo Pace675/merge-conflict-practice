@@ -1,0 +1,16 @@
+body div {
+  display: flex;
+  justify-content: center;
+}
+
+.square1 {
+  color: red;
+}
+
+.square2 {
+  color: green;
+}
+
+.square3 {
+  color: blue;
+}
